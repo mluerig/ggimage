@@ -51,7 +51,7 @@ geom_image <- function(mapping=NULL, data=NULL, stat="identity",
             na.rm = na.rm,
             by = by,
             nudge_x = nudge_x,
-            ##angle = angle,
+            angle = angle,
             ...),
         check.aes = FALSE
     )
